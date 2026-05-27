@@ -9,7 +9,7 @@ public class GameManager : MonoBehaviour
     [Header("Configuración del Juego")]
     public int monedas = 0;
     public int preguntasCorrectas = 0;
-    public int preguntasNecesarias = 4; // Lo cambié a 4 para que coincida con tus preguntas
+    public int preguntasNecesarias = 4; // Lo cambié a 5 para que coincida con tus preguntas
 
     [Header("Referencias de UI")]
     public TMP_Text textoMonedas; // AQUÍ ARRASTRARÁS EL OBJETO "00"
