@@ -6,6 +6,9 @@ Builds/
 Logs/
 UserSettings/
 
+.vs/
+bin/
+obj/
 *.csproj
 *.sln
 *.unityproj
